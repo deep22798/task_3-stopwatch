@@ -5,6 +5,7 @@ A new Flutter project.
 
 ![WhatsApp Image 2023-09-16 at 19 40 49 (1)](https://github.com/deep22798/task_3-stopwatch/assets/76737835/fb2abb24-8140-42c1-a198-0cd3caed14df)
 
+![WhatsApp Image 2023-09-16 at 19 40 49](https://github.com/deep22798/task_3-stopwatch/assets/76737835/1416b533-af78-46e1-966e-03571486b830)
 
 
 
